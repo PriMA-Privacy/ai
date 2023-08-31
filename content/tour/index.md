@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: PriMaIdea2.png
+            filename: background.png
             filters:
               brightness: 0.8
           position: center
