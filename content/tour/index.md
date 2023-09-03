@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: 
-        content: 
+      - title: PriMA enables you to easily manage your private data!
+        content: Keep track of your private data... 
         align: right
         background:
           image:

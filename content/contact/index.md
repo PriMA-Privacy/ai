@@ -10,22 +10,22 @@ sections:
       title: Contact
       text: |-
        
-      email: test@example.org
-      phone: 888 888 88 88
+      email: majid.rafiei@pads.rwth-aachen.de
+      #phone: 
       address:
-        street: 450 Serra Mall
-        city: Stanford
+        street: Jülicher Str. 209d
+        city: Aachen
         region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        postcode: '52070'
+        country: Germany
+        country_code: DE
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        latitude: '50.78550323405554'  
+        longitude: '6.10965933790114'
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
@@ -47,23 +47,23 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  #- block: markdown
+  #  content:
+  #    title:
+  #    subtitle: ''
+  #    text:
+  #  design:
+  #    columns: '1'
+  #    background:
+  #      image: 
+  #        filename: contact.jpg
+  #        filters:
+  #          brightness: 1
+  #        parallax: false
+  #        position: center
+  #        size: cover
+  #        text_color_light: true
+  #    spacing:
+  #      padding: ['20px', '0', '20px', '0']
+  #    css_class: fullscreen
 ---

@@ -48,16 +48,20 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:majid.rafiei@pads.rwth-aachen.de'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/MajidRafiei4
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.de/citations?hl=en&user=VSSFuGcAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/m4jidRafiei
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/majid-rafiei-0838509a/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
